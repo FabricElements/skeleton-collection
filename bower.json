@@ -1,0 +1,27 @@
+{
+  "name": "skeleton-collection",
+  "description": "Shared styles for Material Design elements",
+  "main": "skeleton-collection.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "version": "v0.1-alpha",
+  "homepage": "https://github.com/FabricElements/skeleton-collection",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Erny Sans",
+      "url": "http://erny.co"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FabricElements/skeleton-collection.git"
+  },
+  "dependencies": {
+  }
+}
