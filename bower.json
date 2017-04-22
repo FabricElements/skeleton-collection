@@ -25,6 +25,7 @@
   "dependencies": {
     "skeleton-grid": "FabricElements/skeleton-grid",
     "skeleton-signin": "FabricElements/skeleton-signin",
-    "skeleton-jumbotron": "FabricElements/skeleton-jumbotron"
+    "skeleton-jumbotron": "FabricElements/skeleton-jumbotron",
+    "skeleton-jumbotron": "FabricElements/skeleton-player"
   }
 }
